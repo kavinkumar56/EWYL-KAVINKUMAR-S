@@ -1,2 +1,7 @@
 # EWYL-KAVINKUMAR-S
-initial repository
+Details:
+NAME : KAVINKUMAR S
+
+ROLL.NO : 20CS056
+
+DEPT NAME : CSE
